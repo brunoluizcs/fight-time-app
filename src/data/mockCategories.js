@@ -4,7 +4,7 @@ export const categories = [
     name: "MMA",
     description:
       "Assista as lutas dos principais eventos de MMA dos Brasil e do mundo.",
-    img: "./mma.webp",
+    img: "./mma.jpg",
   },
   {
     id: 2,
